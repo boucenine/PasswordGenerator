@@ -1,6 +1,6 @@
 # PasswordGenerator
 
-Générer vos propres mots de passes avec mon petit programme.
+Générer vos propres mots de passe avec mon petit programme.
 
 
 # Version 1
